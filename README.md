@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Spencer Piha
 
 ### 🚀 About Me
-- 🤖 Interested in **Robotics, Automation, and Software Development**
-- 🎓 **1st-year Computer Engineering student** at **University of Wisconsin–Madison**
-- 🤝 Open to collaborating with anyone passionate about engineering or software
+- 🎓 **1st-year Computer Engineering student** at **UW–Madison**
+- 🤖 **FIRST Robotics alumnus** — competed in **FTC for 6 years**
+- 💡 Passionate about **Robotics, Automation, and Software Development**
+- 🤝 Always open to collaborating with others in engineering and tech
 
 ---
 
